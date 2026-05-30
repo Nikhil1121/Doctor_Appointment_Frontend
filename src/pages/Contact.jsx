@@ -14,7 +14,7 @@ const Contact = () => {
 
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className='font-semibold text-lg text-gray-600'>OUR OFFICE</p>
-          <p className='text-gray-500'>ward no. 13, Bhavani Maa mandir  <br />  lodhikheda , Msdhya pradesh, India</p>
+          <p className='text-gray-500'>ward no. 13, Bhavani Maa mandir  <br />  lodhikheda , Madhya pradesh, India</p>
           <p className='text-gray-500'>Tel: (+91) 62630 58281  <br /> Email: nikhilshendre@gmail.com</p>
           <p className='font-semibold text-lg text-gray-600'>CAREERS AT PRESCRIPTO</p>
           <p className='text-gray-500'>Learn more about our teams and job openings.</p>
